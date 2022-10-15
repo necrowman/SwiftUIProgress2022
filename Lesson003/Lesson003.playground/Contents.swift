@@ -81,10 +81,14 @@ archEnemies["Superman"] = "Lex Luthor"
 archEnemies["Batman"] = "Penguin"
 
 
-/*** Why does Swift have dictionaries as well as arrays? */
-
-
 /*** Why does Swift have default values for dictionaries? */
+let results = [
+    "english": 100,
+    "french": 85,
+    "geography": 75
+]
+
+let historyResult = results["history", default: 0]
 
 
 /*** How to use sets for fast data lookup */

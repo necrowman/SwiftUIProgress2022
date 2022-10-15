@@ -12,11 +12,13 @@
 	
 2. _How to store and find data in dictionaries_ - learned using Dictionaries as store mapped values, using `default:`
 	- _Optional: Why does Swift have dictionaries as well as arrays?_
-	- _Optional: Why does Swift have default values for dictionaries?_
+	- _Optional: Why does Swift have `default` values for dictionaries?_
 	- _**Test**: `Dictionaries`_
 	- _**Test**: `Dictionary default values`_
 
 ![`Lesson003-02`](../IMG/Lesson003-02.png "How to store and find data in dictionaries")
+
+![`Lesson003-03`](../IMG/Lesson003-03.png "Why does Swift have default values for dictionaries?")
 
 3. _How to use sets for fast data lookup_
 	- _Optional: Why are sets different from arrays in Swift?_
