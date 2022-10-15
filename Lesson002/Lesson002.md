@@ -1,4 +1,4 @@
-# Day 2 - 14/10/2022 Lesson 2 – Booleans, string interpolation, and checkpoint 1
+# Day 1 - 14/10/2022 Lesson 2 – Booleans, string interpolation, and checkpoint 1
 
 ## _Sections here:_
 
