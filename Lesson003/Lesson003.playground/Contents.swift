@@ -102,17 +102,19 @@ actors2.insert("Samuel Jacson")
 print(actors2)
 
 
-/*** Why are sets different from arrays in Swift? */
-
-
 /*** How to create and use enums */
+var selected = "Monday"
+selected = "Tuesday"
+selected = "January"
+selected = "Friday "
 
+enum Weekday {
+    case monday
+    case tuesday, wednessday, thursday, friday
+}
+
+var day = Weekday.monday
+day = Weekday.tuesday
+day = .friday
 
 /*** Why does Swift need enums? */
-
-
-
-
-
-
-
