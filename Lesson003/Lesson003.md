@@ -16,10 +16,12 @@
 3. _How to use sets for fast data lookup_
 	- _Optional: Why are sets different from arrays in Swift?_
 	- _**Test**: `Sets`_
-	
+
 4. _How to create and use enums_
 	- _Optional: Why does Swift need enums?_
 	- _**Test**: `Enumerations`_
+
+Lesson playground available at [`Lesson003/Lesson003.playground`](../Lesson003/Lesson003.playground).
 
 <!-- 1. _How to store truth with Booleans_ - discover bulean type `true` and `false` available values and boolean operators `!`, `.toggle()`
 	- _**Test**: `Doubles and Booleans`_
