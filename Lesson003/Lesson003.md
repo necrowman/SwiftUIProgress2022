@@ -3,10 +3,13 @@
 ## _Sections here:_
 
 
-1. _How to store ordered data in arrays_
+1. _How to store ordered data in arrays_ - learned arrays initialization, indexing, using `.append()`, `.count`,   
+	`.remove(at:)`, `.removeAll()`, `.contains()`, `.sorted()`, `.reversed()`
 	- _Optional: Why does Swift have arrays?_
 	- _**Test**: `Arrays`_
 
+![`Lesson003-01`](../IMG/Lesson003-01.png "How to store ordered data in arrays")
+	
 2. _How to store and find data in dictionaries_
 	- _Optional: Why does Swift have dictionaries as well as arrays?_
 	- _Optional: Why does Swift have default values for dictionaries?_
@@ -22,23 +25,3 @@
 	- _**Test**: `Enumerations`_
 
 Lesson playground available at [`Lesson003/Lesson003.playground`](../Lesson003/Lesson003.playground).
-
-<!-- 1. _How to store truth with Booleans_ - discover bulean type `true` and `false` available values and boolean operators `!`, `.toggle()`
-	- _**Test**: `Doubles and Booleans`_
-
-![`Lesson002-01`](../IMG/Lesson002-01.png "How to store truth with Booleans")
-
-2. How to join strings together - strings concatenation and string interpolation
-	- _Why does Swift have string interpolation?_ - small explanation of why swift using string interpolation
-	- _**Test**: `String interpolation`_
-
-![`Lesson002-02`](../IMG/Lesson002-02.png "How to join strings together")
-
-3. Summary: Simple data
-
-- Checkpoint 1
-
-![`Lesson002-03`](../IMG/Lesson002-03.png "Checkpoint 1")
-
-Lesson playground available at [`Lesson002/Lesson002.playground`](../Lesson002/Lesson002.playground).
- -->
