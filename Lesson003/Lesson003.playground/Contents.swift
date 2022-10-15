@@ -92,6 +92,14 @@ let historyResult = results["history", default: 0]
 
 
 /*** How to use sets for fast data lookup */
+let actors = Set(["Denzel Washington", "TomCruize", "Nicolas Cage", "Samuel Jacson"])
+
+var actors2 = Set<String>()
+actors2.insert("Denzel Washington")
+actors2.insert("TomCruize")
+actors2.insert("Nicolas Cage")
+actors2.insert("Samuel Jacson")
+print(actors2)
 
 
 /*** Why are sets different from arrays in Swift? */
@@ -101,3 +109,10 @@ let historyResult = results["history", default: 0]
 
 
 /*** Why does Swift need enums? */
+
+
+
+
+
+
+

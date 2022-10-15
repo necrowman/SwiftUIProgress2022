@@ -20,9 +20,11 @@
 
 ![`Lesson003-03`](../IMG/Lesson003-03.png "Why does Swift have default values for dictionaries?")
 
-3. _How to use sets for fast data lookup_
+3. _How to use sets for fast data lookup_ - learnes how to init Sets and `.insert()` method
 	- _Optional: Why are sets different from arrays in Swift?_
 	- _**Test**: `Sets`_
+
+![`Lesson003-04`](../IMG/Lesson003-04.png "How to use sets for fast data lookup")
 
 4. _How to create and use enums_
 	- _Optional: Why does Swift need enums?_
