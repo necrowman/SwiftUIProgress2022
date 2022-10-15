@@ -26,8 +26,10 @@
 
 ![`Lesson003-04`](../IMG/Lesson003-04.png "How to use sets for fast data lookup")
 
-4. _How to create and use enums_
+4. _How to create and use enums_ - creating and usage enums was described here. New keywords `case` and `enum`
 	- _Optional: Why does Swift need enums?_
 	- _**Test**: `Enumerations`_
+
+![`Lesson003-05`](../IMG/Lesson003-05.png "How to create and use enums")
 
 Lesson playground available at [`Lesson003/Lesson003.playground`](../Lesson003/Lesson003.playground).
