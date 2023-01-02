@@ -35,15 +35,45 @@ username = "@twostraws"
 // lots of complex logic
 print(username)
 
-/*** Optional: Why does Swift have type annotations? */
-
-
-/*** Optional: Why would you want to create an empty collection? */
-
-
 /*** Summary: Complex data */
 
 
 /*** Checkpoint 2 */
 
+let checkpointArray: [String] = [ "Olia", "Ruslan", "Bohdan",
+                                  "Stepan", "Ira", "Zorian",
+                                  "Bohdan", "Ira"]
+let countOfElements = checkpointArray.count
+print("Count of array elements is \(countOfElements)")
 
+// 1
+var uniqueElements: [String] = []
+
+checkpointArray.forEach {
+    if !uniqueElements.contains($0) {
+        uniqueElements.append($0)
+    }
+}
+
+print("uniqueElements => \(uniqueElements)")
+print("count of unique items is \(uniqueElements.count)")
+
+// 2
+let setOfUniqueItems = Set(checkpointArray)
+//Set<String>.init(checkpointArray)
+print("count of unique items in set is \(setOfUniqueItems.count)")
+
+// 3
+
+var dictionaryItems = [String: Int]()
+checkpointArray.forEach {
+    if let count = dictionaryItems[$0] {
+        dictionaryItems[$0] = count + 1
+    } else {
+        dictionaryItems[$0] = 1
+    }
+}
+
+print("dictionaryItems => \(dictionaryItems)")
+print("dictionaryItems keys => \(dictionaryItems.keys)")
+print("dictionaryItems keys count => \(dictionaryItems.keys.count)")

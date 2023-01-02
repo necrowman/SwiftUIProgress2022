@@ -28,7 +28,7 @@ Paul Hudson lesson 3 available here "[`Day 3 – Arrays, dictionaries, sets, and
 
 ---
 
-### Day 3 - 17/10/2022 Lesson 4 – type annotations and checkpoint 2
+### Day 3 - 02/01/2023 Lesson 4 – type annotations and checkpoint 2
 
 Available at [`Lesson004/Lesson004.md`](./Lesson004/Lesson004.md).
 
