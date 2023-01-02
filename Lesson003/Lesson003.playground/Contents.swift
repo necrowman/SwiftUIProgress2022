@@ -116,5 +116,3 @@ enum Weekday {
 var day = Weekday.monday
 day = Weekday.tuesday
 day = .friday
-
-/*** Why does Swift need enums? */
